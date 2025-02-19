@@ -5,6 +5,7 @@
 
 **Project Title**: Retail Sales Analysis  
 **Database**: `retail_db`
+
 This project focuses on designing and analyzing a retail sales database using SQL to uncover actionable insights into sales trends, customer demographics, and product performance. By developing advanced SQL queries, key performance indicators (KPIs) such as total sales by category, average monthly sales, and top customer contributions were calculated. The analysis identified peak sales periods, high-value transactions, and customer spending patterns, providing data-driven recommendations for optimizing retail strategies.
 
 ## Objectives
