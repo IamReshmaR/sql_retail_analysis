@@ -4,10 +4,8 @@
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
-**Level**: Beginner  
 **Database**: `retail_db`
-
-This project aims to showcase essential SQL skills and techniques commonly employed by data analysts to explore, clean, and analyze retail sales data. It involves creating a retail sales database, conducting exploratory data analysis (EDA), and addressing specific business questions through SQL queries. Designed for beginners, this project provides a strong foundation in SQL, making it an excellent starting point for anyone embarking on a data analysis journey.
+This project focuses on designing and analyzing a retail sales database using SQL to uncover actionable insights into sales trends, customer demographics, and product performance. By developing advanced SQL queries, key performance indicators (KPIs) such as total sales by category, average monthly sales, and top customer contributions were calculated. The analysis identified peak sales periods, high-value transactions, and customer spending patterns, providing data-driven recommendations for optimizing retail strategies.
 
 ## Objectives
 
